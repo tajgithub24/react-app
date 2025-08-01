@@ -156,7 +156,7 @@ CREATE TABLE products (
 
 ii. Insert sample data:
 ```
-INSERT INTO products (id, name, price, description, image_url) VALUES
+INSERT INTO products (id, name, price, description, image) VALUES
 (1, 'iPhone 15', 79999.00, 'Latest Apple phone', 'iphone15.jpg'),
 (2, 'Samsung Galaxy S23', 69999.00, 'High-end Android phone', 'galaxyS23.jpg'),
 (3, 'Nothing Phone 2', 45999.00, 'Flagship killer', 'nothing2.jpg'),
